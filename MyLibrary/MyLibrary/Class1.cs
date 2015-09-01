@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace MyLibrary
 {
-    public class Class1
+    public class MyClass
     {
+        public string Test()
+        {
+            return "This Is A Test Method";
+        }
     }
 }

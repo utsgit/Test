@@ -16,5 +16,9 @@ namespace MyLibrary
         {
             return "This Is A Test1 Method";
         }
+        public string Test2()
+        {
+            return "This Is A Test2 Method";
+        }
     }
 }

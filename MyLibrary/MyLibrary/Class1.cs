@@ -16,9 +16,15 @@ namespace MyLibrary
         {
             return "This Is A Test1 Method";
         }
+<<<<<<< HEAD
         public string Test3()
         {
             return "This Is A Test3 Method";
+=======
+        public string Test2()
+        {
+            return "This Is A Test2 Method";
+>>>>>>> origin/master
         }
     }
 }
